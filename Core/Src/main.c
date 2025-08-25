@@ -19,7 +19,8 @@ int main(void) {
   MAX72xx_Init(&hspi1);
 
   while (1) {
-	for (int x = 0; x < 8; x++) {
+	  MAX72xx_WriteChar(&hspi1);
+	  	for (int x = 0; x < 8; x++) {
 		for (int y = 0; y < 8; y++) {
 			MAX72xx_Write_Pixel(&hspi1, x, y);
 			HAL_Delay(10);

@@ -27,5 +27,6 @@ void MAX72xx_Init(SPI_HandleTypeDef *phspi);
 void MAX72xx_Write(SPI_HandleTypeDef *phspi, uint8_t msb, uint8_t lsb);
 void MAX72xx_Clear(SPI_HandleTypeDef *phspi);
 void MAX72xx_Write_Pixel(SPI_HandleTypeDef *phspi, uint8_t x, uint8_t y);
+void MAX72xx_WriteChar(SPI_HandleTypeDef *phspi);
 
 #endif // MAX7219xx_H
