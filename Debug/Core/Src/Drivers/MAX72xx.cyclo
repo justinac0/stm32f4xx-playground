@@ -1,0 +1,4 @@
+../Core/Src/Drivers/MAX72xx.c:3:6:MAX72xx_Init	1
+../Core/Src/Drivers/MAX72xx.c:17:13:MAX72xx_Write	1
+../Core/Src/Drivers/MAX72xx.c:24:13:MAX72xx_Write_Pixel	3
+../Core/Src/Drivers/MAX72xx.c:31:6:MAX72xx_Clear	2
