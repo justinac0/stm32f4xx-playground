@@ -1,5 +1,5 @@
-../Core/Src/Drivers/MAX72xx.c:17:6:MAX72xx_Init	16	static
-../Core/Src/Drivers/MAX72xx.c:31:13:MAX72xx_Write	16	static
-../Core/Src/Drivers/MAX72xx.c:38:13:MAX72xx_Write_Pixel	16	static
-../Core/Src/Drivers/MAX72xx.c:45:6:MAX72xx_WriteChar	24	static
-../Core/Src/Drivers/MAX72xx.c:54:6:MAX72xx_Clear	24	static
+../Core/Src/Drivers/MAX72xx.c:46:6:MAX72xx_Init	16	static
+../Core/Src/Drivers/MAX72xx.c:60:13:MAX72xx_Write	16	static
+../Core/Src/Drivers/MAX72xx.c:67:13:MAX72xx_Write_Pixel	16	static
+../Core/Src/Drivers/MAX72xx.c:74:6:MAX72xx_WriteChar	24	static
+../Core/Src/Drivers/MAX72xx.c:83:6:MAX72xx_Clear	24	static
